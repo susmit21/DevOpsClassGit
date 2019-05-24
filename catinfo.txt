@@ -1,0 +1,3 @@
+cat can run
+cat can hide
+cat can eat
